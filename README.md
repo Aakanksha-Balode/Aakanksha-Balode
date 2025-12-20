@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aakanksha-Balode
 - 👀 I’m interested in Bioinformatics
-- 🌱 I’m currently learning Python and R
+- 🌱 I’m currently learning Python, R, MYSQL, NOSQL
 - 💞️ I’m looking to collaborate on Drug discovery, NGS
 - 📫 How to reach me https://www.linkedin.com/in/aakanksha-balode-90349723b/
 - 😄 Pronouns: MS 
