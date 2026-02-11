@@ -20,7 +20,6 @@
 - **[Project Name: Internship Workflow](link-to-repo)**
   - Computational pipelines developed during my 6-month internship at Ediglob
 -
-- 🧬 MSc Bioinformatics | 🐍 Python & R Developer | 💊 Focused on Computational Drug Discovery & Data Science | 🎓 Former NCC Cadet
 - 
 - ### 📫 How to reach me :
 - **LinkedIn** :-  https://www.linkedin.com/in/aakanksha-balode-90349723b/
